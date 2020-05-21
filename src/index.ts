@@ -3,6 +3,7 @@ import { Desert } from './themes/Desert';
 import { Sunburst } from './themes/Sunburst';
 import { A11YDark } from './themes/A11YDark';
 import { A11YLight } from './themes/A11YLight';
+import { GLight } from './themes/GLight';
 
 export default
 {
@@ -10,5 +11,6 @@ export default
 	Desert : Desert,
 	Sunburst : Sunburst,
 	A11YDark : A11YDark,
-	A11YLight: A11YLight
+	A11YLight: A11YLight,
+	GLight: GLight
 };
